@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
+html lang="en">
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>TIXAE Agents HTML Sample</title>
-    </head>
-    <body>
-        <h1>TIXAE Agents HTML Sample</h1>
-        <p>This is basically your website here :)</p>
-        <p>Did you know that the strongest muscle in the body is the tongue?</p>
+        
 
         
 <div style="width: 0; height: 0;" id="VG_OVERLAY_CONTAINER">
@@ -20,9 +14,10 @@
 <script defer>
     (function() {
         window.VG_CONFIG = {
-            ID: "uis4wrftdaqcy9hf", // YOUR AGENT ID
+            ID: "vBepxAHbhsfRGPOJ3EtJ", // YOUR AGENT ID
             region: 'eu', // YOUR ACCOUNT REGION 
             render: 'bottom-right', // can be 'full-width' or 'bottom-left' or 'bottom-right'
+            // modalMode: true // Set this to 'true' to open the widget in modal mode
             stylesheets: [
                 // Base TIXAE Agents CSS
                 "https://vg-bunny-cdn.b-cdn.net/vg_live_build/styles.css",
